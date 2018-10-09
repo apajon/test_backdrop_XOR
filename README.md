@@ -3,7 +3,7 @@ Code by [Dr.Adrien Pajon](adrien.pajon@gmail.com)
 
 Based on the paper ["Réseaux de neurones"](http://www.math-info.univ-paris5.fr/~bouzy/Doc/AA1/ReseauxDeNeurones1.pdf) by Pr.Bruno Bouzy from University of Paris 5, France 
 
-A copy of this paper is in this repo at 'ReseauxDeNeurones1.pdf'
+A copy of this paper is in this repo at `ReseauxDeNeurones1.pdf`
 
 What is this?
 ==
